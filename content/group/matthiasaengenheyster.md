@@ -16,7 +16,7 @@ summary = "PhD Student"
 tags = ["matthiasaengenheyster"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www2.physics.ox.ac.uk/contacts/people/fraser"
+#external_link = "https://www2.physics.ox.ac.uk/contacts/people/fraser"
 
 # Does the project detail page use math formatting?
 math = false
