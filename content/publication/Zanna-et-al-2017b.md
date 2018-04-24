@@ -17,7 +17,7 @@ authors = ["L Zanna", "S. Khatiwala", "J. Ison", "J. Gregory", "P. Heimbach"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Nature Geosciences"
+publication = "[]"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -33,7 +33,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["turbulence/"]
+projects = ["turbulence/","climatechange/"]
 
 # Links (optional).
 # url_pdf = "files/pdf/Zanna-et-al-2017.pdf"

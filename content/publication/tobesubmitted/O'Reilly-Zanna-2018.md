@@ -1,9 +1,9 @@
 +++
-title = "Interannual Variability of Gulf Stream Dynamics"
+title = "The signature of oceanic processes on extratropical decadal SST anomalies" 
 date = "0000-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["T. Bolton", "L. Zanna"]
+authors = ["C. O'Reilly", "L. Zanna"]
 
 # Publication type.
 # Legend:
@@ -33,10 +33,10 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["turbulence/"]
+projects = ["variability/"]
 
 # Links (optional).
-#url_pdf = "files/pdf/Bronselaer_et_al-2016.pdf"
+#url_pdf = "files/pdf/O'Reilly_etal_2017.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "headers/gistemp_jan-jun16_print.jpg"
+#image = "headers/bubbles-wide.jpg"
 # caption = "My caption :smile:"
 
 +++

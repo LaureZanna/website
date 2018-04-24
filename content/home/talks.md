@@ -19,4 +19,19 @@ count = 10
 list_format = 0
 
 +++
+Upcoming Talks:
+
+-- Harvard, April 4
+
+-- NCAR April 24
+
+-- U Chicago April 27
+
+-- UCSD/Scripps May 15
+
+-- Caltech May 17
+
+-- AIMS July 7
+
+-- USAMOC July 26
 

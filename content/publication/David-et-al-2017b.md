@@ -17,7 +17,7 @@ authors = ["T. David", "L. Zanna", "D.P. Marshall"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Oc. Modelling"
+publication = "Fluids"
 publication_short = ""
 
 # Abstract and optional shortened version.

@@ -49,3 +49,5 @@ principles, statistical mechanics, and high-resolution model outputs.
 Current and Past Funding on this topic:
 
 -- NERC, Modelling the ocean with random number: http://gtr.rcuk.ac.uk/projects?ref=NE%2FK013548%2F1
+
+-- Royal Society, International Exchanges Scheme,  Quantifying the Variability of Tracer Transport across the Gulf Stream 

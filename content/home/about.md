@@ -43,4 +43,4 @@ scales, through the analysis of observations and a hierarchy of
 numerical simulations. Recently, I have worked on a wide range of
 topics including ocean redistribution of heat under climate change,
 regional sea level rise, air-sea coupling and predictability in
-mid-latitudes, ocean turbulence in climate models.
+mid-latitudes, and ocean turbulence in climate models.

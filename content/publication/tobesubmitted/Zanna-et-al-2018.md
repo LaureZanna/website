@@ -1,9 +1,9 @@
 +++
-title = " A deformation-based parametrization of ocean mesoscale eddy Reynolds stresses"
-date = "2017-02-01"
+title = "Model Uncertainty Quantification in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Predictions"
+date = "0000-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["J. Anstey", "L. Zanna"]
+authors = ["L Zanna", "J M Brankart", "P Lermusiaux", "T Penduff", "P D Williams"]
 
 # Publication type.
 # Legend:
@@ -14,10 +14,10 @@ authors = ["J. Anstey", "L. Zanna"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Oc. Modelling, 112, 99-111, doi:10.1016/j.ocemod.2017.02.004"
+publication = "QJRMS"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ selected = true
 projects = ["turbulence/"]
 
 # Links (optional).
-url_pdf = "files/pdf/Anstey_Zanna_2017.pdf"
+# url_pdf = "files/pdf/Zanna-et-al-2017.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
@@ -58,14 +58,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "headers/pv.jpg"
+# image = "headers/bubbles-wide.jpg"
 # caption = "My caption :smile:"
 
 +++
-We analyze in depth the dynamcal properties of a parametrization for ocean turbulence.
-The parametrization is based on the deformation of the fluid parcel.
-We show that the parametrization can help sharpen gradients, enhancing filamentation.
-Glabally, the parametrization conserves energy and dissipates enstrophy.
-
 
 
