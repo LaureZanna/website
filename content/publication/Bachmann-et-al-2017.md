@@ -1,6 +1,6 @@
 +++
-title = " A deformation-based parametrization of ocean mesoscale eddy Reynolds stresses"
-date = "0000-01-01"
+title = "The relationship between a deformation-based eddy parameterization and the LANS-alpha turbulence model"
+date = "2018-05-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["S. Bachman","J. Anstey", "L. Zanna"]
@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Oc. Modelling"
-publication_short = ""
+publication_short = "doi.org/10.1016/j.ocemod.2018.04.007"
 
 # Abstract and optional shortened version.
 abstract = " "

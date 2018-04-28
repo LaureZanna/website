@@ -1,9 +1,9 @@
 +++
-title = "Model Uncertainty Quantification in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Predictions"
+title = "Uncertainty and Scale Interactions in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Climate Predictions"
 date = "0000-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L Zanna", "J M Brankart", "P Lermusiaux", "T Penduff", "P D Williams"]
+authors = ["L Zanna", "J M Brankart", "M Huber", "T Penduff", "P D Williams"]
 
 # Publication type.
 # Legend:
