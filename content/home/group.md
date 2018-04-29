@@ -45,6 +45,10 @@ filter_default = 0
   tag = ".robfraser"
 
 [[filter]]
+  name = "Matthias Aengenheyster"
+  tag = ".matthiasaengenheyster"
+
+  [[filter]]
   name = "Alums"
   tag = ".alumns"
 +++

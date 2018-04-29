@@ -32,8 +32,7 @@ Atmospheric, Oceanic and Planetary Physics website.
    group. Please be in touch as soon as possible if you are planning
    to apply for the fellowships below.
 
-- 2 Postdoctoral Research Assistants in Climate and Ocean Physics to be
-advertised soon (around Feb 2018), with start date in spring/summer
+- 2 Postdoctoral Research Assistants in Climate and Ocean Physics are now advertised, with start date in spring/summer
 2018
 
 - NERC Postdoctoral and Advanced Research Fellowships: deadline October
