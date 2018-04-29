@@ -1,6 +1,6 @@
 +++
-title = "The relationship between a deformation-based parametrization and Lans-alpha model" 
-date = "2018-05-05"
+title = " The relationship between a deformation-based eddy parametrization and the LANS-alpha turbulence model"
+date = "2017-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["S. Bachman", "J. Anstey", "L. Zanna"]
@@ -17,7 +17,7 @@ authors = ["S. Bachman", "J. Anstey", "L. Zanna"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Press, Oc. Modelling"
+publication = "Oc. Modelling, 112, 99-111, doi:10.1016/j.ocemod.2018.04.007"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -62,5 +62,10 @@ highlight = true
 # caption = "My caption :smile:"
 
 +++
+We analyze in depth the dynamcal properties of a parametrization for ocean turbulence.
+The parametrization is based on the deformation of the fluid parcel.
+We show that the parametrization can help sharpen gradients, enhancing filamentation.
+Glabally, the parametrization conserves energy and dissipates enstrophy.
+
 
 
