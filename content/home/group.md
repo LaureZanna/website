@@ -49,7 +49,7 @@ filter_default = 0
   tag = ".matthiasaengenheyster"
 
   [[filter]]
-  name = "Alums"
+  name = "Alumns"
   tag = ".alumns"
 +++
 
