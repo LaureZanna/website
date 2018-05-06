@@ -1,6 +1,7 @@
 +++
-title = " The relationship between a deformation-based eddy parametrization and the LANS-alpha turbulence model"
-date = "2017-03-01"
+title = " The relationship between"
+#a deformation-based eddy parametrization and the LANS-alpha turbulence model"
+date = "2017-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["S. Bachman", "J. Anstey", "L. Zanna"]
