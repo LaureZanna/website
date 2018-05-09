@@ -1,6 +1,6 @@
 +++
 title = "Uncertainty and Scale Interactions in Ocean Ensembles: From Seasonal Forecasts to Multi-Decadal Climate Predictions"
-date = "0000-01-01"
+date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["L Zanna", "J M Brankart", "M Huber", "T Penduff", "P D Williams"]
@@ -17,7 +17,7 @@ authors = ["L Zanna", "J M Brankart", "M Huber", "T Penduff", "P D Williams"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "QJRMS"
+publication = "Submitted, QJRMS"
 publication_short = ""
 
 # Abstract and optional shortened version.

@@ -1,6 +1,6 @@
 +++
 title = "Eddy-mixing entropy and its maximization in forced-dissipative geostrophic turbulence" 
-date = "0000-01-01"
+date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["T. David", "L. Zanna", "D.P. Marshall"]
@@ -17,7 +17,7 @@ authors = ["T. David", "L. Zanna", "D.P. Marshall"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Fluids"
+publication = "Submitted"
 publication_short = ""
 
 # Abstract and optional shortened version.

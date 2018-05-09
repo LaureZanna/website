@@ -1,6 +1,6 @@
 +++
 title = "The impact of tropical precipitation on summertime Euro-Atlantic circulation via a circumglobal wave-train"
-date = "0000-01-01"
+date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["C. O'Reilly", "T. Woollings", "L. Zanna","A. Weisheimer"]
@@ -17,7 +17,7 @@ authors = ["C. O'Reilly", "T. Woollings", "L. Zanna","A. Weisheimer"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "J. Climate"
+publication = "In Revision, J. Climate"
 publication_short = ""
 
 # Abstract and optional shortened version.

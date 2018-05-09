@@ -1,6 +1,6 @@
 +++
 title = "The signature of oceanic processes on extratropical decadal SST anomalies" 
-date = "0000-01-01"
+date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["C. O'Reilly", "L. Zanna"]
@@ -17,7 +17,7 @@ authors = ["C. O'Reilly", "L. Zanna"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "GRL"
+publication = "In Review, GRL"
 publication_short = ""
 
 # Abstract and optional shortened version.

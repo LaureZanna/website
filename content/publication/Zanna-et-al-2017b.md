@@ -1,6 +1,6 @@
 +++
-title = "Estimates and Attribution of Atlantic Ocean Heat Content and Sea Level Change"
-date = "0000-01-01"
+title = "Historical Ocean Circulation Changes Shaped Mid-Latitudes Heat Content" 
+date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["L Zanna", "S. Khatiwala", "J. Ison", "J. Gregory", "P. Heimbach"]
@@ -17,7 +17,7 @@ authors = ["L Zanna", "S. Khatiwala", "J. Ison", "J. Gregory", "P. Heimbach"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "[]"
+publication = "Submitted"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -33,7 +33,7 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["turbulence/","climatechange/"]
+projects = ["climatechange/"]
 
 # Links (optional).
 # url_pdf = "files/pdf/Zanna-et-al-2017.pdf"

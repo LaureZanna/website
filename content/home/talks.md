@@ -23,15 +23,15 @@ Upcoming Talks:
 
 -- Harvard, April 4
 
--- NCAR April 24
+-- NCAR, April 24
 
--- U Chicago April 27
+-- U Chicago, April 27
 
--- UCSD/Scripps May 15
+-- UCSD/Scripps, May 15
 
--- Caltech May 17
+-- Caltech, May 17
 
--- AIMS July 7
+-- AIM, July 7
 
--- USAMOC July 26
+-- USAMOC, July 26
 
