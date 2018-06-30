@@ -17,7 +17,7 @@ authors = ["C. O'Reilly", "L. Zanna"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Review, GRL"
+publication = "In Press, GRL"
 publication_short = ""
 
 # Abstract and optional shortened version.

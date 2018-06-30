@@ -17,7 +17,7 @@ authors = ["S. Bachman", "J. Anstey", "L. Zanna"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Press, Oc. Modelling, doi:10.1016/j.ocemod.2018.04.007"
+publication = "Oc. Modelling, 126, 56-62, doi:10.1016/j.ocemod.2018.04.007"
 publication_short = ""
 
 # Abstract and optional shortened version.

@@ -37,9 +37,9 @@ math = false
 -- Postdocs
 
 - 2016-2017 : Joakim Kjellsson, now researcher in Kiel
-- 2015-2017: Stephan Juricke (+with T. Palmer), now researcher in Bremen 
+- 2015-2017: Stephan Juricke (+ with T. Palmer), now researcher in Bremen 
 - 2015-2016: Markus Huber (funded by a S-NSF fellowship)
-- 2014-2015: James Anstey, now permanent researcher at CCCma
+- 2014-2015: James Anstey, now permanent scientist at CCCma
 - 2012-2015: Fenwick Cooper(+ with T. Palmer), now postdoc at Oxford
 - 2011-2013: Mirek Andrejczuk (+ with T. Palmer), now permanent researcher at UK-Met Office
-- 2011-2013: Luca Porta Mana, now researcher at Perimeter Institute
+- 2011-2013: Luca Porta Mana, now researcher at Kavli Institute for Systems Neuroscience 

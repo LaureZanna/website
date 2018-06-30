@@ -1,6 +1,6 @@
 +++
 title = "Southern Ocean carbon-wind stress feedback"
-date = "2018-01-01"
+date = "2018-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["B. Bronselaer", "L. Zanna", "D. Munday", "J. Lowe"]
@@ -36,7 +36,7 @@ selected = true
 projects = ["climatechange/"]
 
 # Links (optional).
-url_pdf = "files/pdf/Bronselaer_et_al-2016.pdf"
+url_pdf = "files/pdf/Bronselaer-et-al-2018.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

@@ -1,5 +1,5 @@
 +++
-title = "Historical Ocean Circulation Changes Shaped Mid-Latitudes Heat Content" 
+title = "Global reconstruction of historical ocean heat storage and transport"
 date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -17,7 +17,7 @@ authors = ["L Zanna", "S. Khatiwala", "J. Ison", "J. Gregory", "P. Heimbach"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
+publication = "In revision"
 publication_short = ""
 
 # Abstract and optional shortened version.

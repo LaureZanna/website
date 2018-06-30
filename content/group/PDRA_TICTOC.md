@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "PDRA, TICTOC"
+title = "Emily Newsom (starting Dec)"
 
 # Project summary to display on homepage.
-summary = "Position open - Deadline May 16th "
+summary = "PDRA, TICTOC"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
@@ -27,22 +27,3 @@ math = false
 # caption = "My caption :smile:"
 
 +++
-
-Postdoctoral Research Assistant in Ocean and Climate Dynamics (Heat Uptake)
-Vacancy ID : 133554
-
-Applications are invited for a Postdoctoral Research Assistant in Ocean and Climate Dynamics (Heat Uptake). The post is available for up to 3 years.
-
-This project will focus on the understanding of patterns of ocean heat content (OHC) changes, using new observations and estimates of OHC, and conceptual models. The successful candidate will join the Climate & Ocean Physics Group led by Prof Zanna as part of the NERC-funded TICTOC (Transient tracer-based Investigation of Circulation and Thermal Ocean Change) project coordinated by Dr. Elaine McDonagh (NOC). The TICTOC team includes six UK institutions and several international partners.
-
-Salary : Grade 7: £31,604 - £38,833 p.a.
-
-Deadline: submission online before 12.00 midday (UK time) on 16th May 2018
-
-Apply now:  www.recruit.ox.ac.uk using the vacancy ID number
-
-You will be required to upload a CV with an up-to-date publication list, a brief statement of current research interests, a supporting statement and details of three referees as part of your online application.
-
-Informal enquiries about the posts: Laure Zanna (laure.zanna@physics.ox.ac.uk).
-
-General enquiries regarding applications: personnel@physics.ox.ac.uk

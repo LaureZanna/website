@@ -17,7 +17,7 @@ authors = ["T. David", "L. Zanna", "D.P. Marshall"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
+publication = "Minor Revisions, Journal of Statistical Mechanics: Theory and Experiment"
 publication_short = ""
 
 # Abstract and optional shortened version.
