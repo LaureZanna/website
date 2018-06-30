@@ -36,7 +36,7 @@ selected = true
 projects = ["variability/"]
 
 # Links (optional).
-url_pdf = "files/pdf/Huddart_et_al_2016.pdf"
+url_pdf = "files/pdf/Dias-et-al-2018.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

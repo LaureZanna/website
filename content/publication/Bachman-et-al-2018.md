@@ -36,7 +36,7 @@ selected = true
 projects = ["turbulence/"]
 
 # Links (optional).
-#url_pdf = "files/pdf/Anstey_Zanna_2017.pdf"
+url_pdf = "files/pdf/Bachman-et-al-2018.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
@@ -62,10 +62,7 @@ highlight = true
 # caption = "My caption :smile:"
 
 +++
-We analyze in depth the dynamcal properties of a parametrization for ocean turbulence.
-The parametrization is based on the deformation of the fluid parcel.
-We show that the parametrization can help sharpen gradients, enhancing filamentation.
-Glabally, the parametrization conserves energy and dissipates enstrophy.
+
 
 
 

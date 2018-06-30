@@ -36,7 +36,7 @@ selected = true
 projects = ["turbulence/"]
 
 # Links (optional).
-#url_pdf = "files/pdf/Andrejczuk_etal_2016.pdf"
+url_pdf = "files/pdf/vanSebille-et-al.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
