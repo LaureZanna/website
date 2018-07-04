@@ -36,7 +36,7 @@ selected = true
 projects = ["variability/"]
 
 # Links (optional).
-#url_pdf = "files/pdf/O'Reilly_etal_2017.pdf"
+url_pdf = "files/pdf/OReilly-et-al-jclimEOR-2018.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

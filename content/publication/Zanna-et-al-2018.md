@@ -17,7 +17,7 @@ authors = ["L Zanna", "J M Brankart", "M Huber", "S Leroux", "T Penduff", "P D W
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted, QJRMS"
+publication = "Revised, QJRMS"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ selected = true
 projects = ["turbulence/"]
 
 # Links (optional).
-# url_pdf = "files/pdf/Zanna-et-al-2017.pdf"
+url_pdf = "files/pdf/zanna-al-revised-july1-2018.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

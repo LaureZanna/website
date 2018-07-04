@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Emily Newsom (starting Dec)"
 
 # Project summary to display on homepage.
-summary = "PDRA, TICTOC"
+summary = "postdoc, TICTOC"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"

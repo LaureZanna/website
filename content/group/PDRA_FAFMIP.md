@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Alex Todd (starting Oct)"
 
 # Project summary to display on homepage.
-summary = "PDRA, FAFMIP project"
+summary = "postdoc, FAFMIP project"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"

@@ -17,6 +17,8 @@ weight = 35
 
 +++
 
+** I won't be accepting new applications for fellowships, postdocs or students in Oxford for the coming year **
+
 If you are motivated, hard-working and excited to pursue research in
 climate and ocean physics at Oxford, feel free to get in touch with
 me.
@@ -31,9 +33,6 @@ Atmospheric, Oceanic and Planetary Physics website.
    fellowships are available if you are interested in joining our
    group. Please be in touch as soon as possible if you are planning
    to apply for the fellowships below.
-
-- 2 Postdoctoral Research Assistants in Climate and Ocean Physics are now advertised, with start date in spring/summer
-2018
 
 - NERC Postdoctoral and Advanced Research Fellowships: deadline October
 

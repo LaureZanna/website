@@ -21,17 +21,8 @@ list_format = 0
 +++
 Upcoming Talks:
 
--- Harvard, April 4
-
--- NCAR, April 24
-
--- U Chicago, April 27
-
--- UCSD/Scripps, May 15
-
--- Caltech, May 17
-
--- AIM, July 7
-
 -- USAMOC, July 26
 
+-- Regional Atlantic Circulation and Global Change Workshop, Nov 7-8
+
+-- AGU fall meeting 
