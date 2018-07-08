@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Emily Newsom (starting Dec)"
+title = "Starting Dec"
 
 # Project summary to display on homepage.
 summary = "postdoc, TICTOC"

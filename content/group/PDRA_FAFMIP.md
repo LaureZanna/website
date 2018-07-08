@@ -3,7 +3,7 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Alex Todd (starting Oct)"
+title = "Starting Oct"
 
 # Project summary to display on homepage.
 summary = "postdoc, FAFMIP project"

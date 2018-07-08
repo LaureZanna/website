@@ -274,12 +274,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Opportunities"
   url = "#opportunities"
-  weight = 8
-
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight =9
+  weight = 9
   
 # Taxonomies.
 #[taxonomies]
