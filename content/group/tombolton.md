@@ -9,7 +9,7 @@ title = "Tom Bolton"
 summary = "PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "bubbles.jpg"
+image_preview = "TomBolton.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
