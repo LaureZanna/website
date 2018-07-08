@@ -3,20 +3,20 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Chris Oreilly"
+title = "Robert Fraser"
 
 # Project summary to display on homepage.
-summary = "Postdoc"
+summary = "PhD Student"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["chrisoreilly"]
+tags = ["robfraser"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://sites.google.com/site/christopherhorkesley/"
+external_link = "https://www2.physics.ox.ac.uk/contacts/people/fraser"
 
 # Does the project detail page use math formatting?
 math = false

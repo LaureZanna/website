@@ -29,7 +29,7 @@ image = "headers/blackboard-header.jpg"
 +++
 
 Big data is ubiquitious in many areas of science - we have recently
-used a range of machine-learning algorihtms to tackle problems
+used a range of machine-learning algorithms to tackle problems
 in climate such as forecasting using neural networks, or
 parametrization using super-resolution imaging. Stay tuned for more
 projects and details soon... or be in touch if you are interested in
