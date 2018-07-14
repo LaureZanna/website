@@ -1,6 +1,6 @@
 +++
 title = "Seasonal to annual ocean forecasting skill and the role of model and observational uncertainty"
-date = "2018-06-01"
+date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["S. Juricke", "D. MacLeod", "A. Weisheimer", "L. Zanna", "T. N. Palmer"]

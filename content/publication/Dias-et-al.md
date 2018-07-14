@@ -1,6 +1,6 @@
 +++
 title = "Remote and local influences in forecasting Pacific SST: a linear inverse model and a multimodel ensemble study"
-date = "2018-05-01"
+date = "2018-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["D. Faggiani Dias", "A. Subramanian", "L. Zanna", "A. J. Miller"]

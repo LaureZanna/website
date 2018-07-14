@@ -44,7 +44,7 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Dept of Physics, University of Oxford", url = "http://www2.physics.ox.ac.uk/"} , {name = "Fellow, Wadham College", url = "http://www.wadham.ox.ac.uk/" },{name= "CV [PDF]", url="files/pdf/laurezanna_cv.pdf"} ]
+  organizations = [ { name = "Dept of Physics, University of Oxford", url = "http://www2.physics.ox.ac.uk/"} , {name = "David Richards Fellow, Wadham College", url = "http://www.wadham.ox.ac.uk/" },{name= "CV [PDF]", url="files/pdf/laurezanna_cv.pdf"} ]
 
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
