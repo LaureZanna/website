@@ -1,6 +1,6 @@
 +++
 title = "The signature of oceanic processes on extratropical decadal SST anomalies" 
-date = "2018-05-01"
+date = "2018-07-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["C. O'Reilly", "L. Zanna"]
@@ -17,7 +17,7 @@ authors = ["C. O'Reilly", "L. Zanna"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Minor Revisions, GRL"
+publication = "In Press, GRL"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -36,7 +36,7 @@ selected = true
 projects = ["variability/"]
 
 # Links (optional).
-#url_pdf = "files/pdf/O'Reilly_etal_2017.pdf"
+url_pdf = "files/pdf/oreilly-zanna-signature(1).pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

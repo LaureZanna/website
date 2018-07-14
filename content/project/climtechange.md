@@ -28,17 +28,19 @@ image = "headers/gistemp_jan-jun16_print.jpg"
 
 +++
 
-The oceans are a major sink of heat and carbon, able to delay climate
-change. The role of ocean heat uptake remains central in quantifying
-both the magnitude and timescale of the local and global climate
-response to forcing.
+The oceans are a major sink of heat and carbon, able to delay climate change. The role of ocean heat uptake remains central in quantifying both the magnitude and timescale of the local and global climate response to forcing.
 
-One main focus of our work is on the mechanisms of heat and carbon storage and transport, and on the quantification of
-their feedbacks onto the atmosphere and global climate. One goal is to
-understand the role of air-sea fluxes and of the large-scale ocean
-circulation in setting the ocean and atmospheric CO2 levels.
+One main focus of our work is address fundamental questions such as:
 
-Current and Past Funding on this topic:
+- What is the role of the ocean circulation is shaping patterns of heat, carbon and oxygen storage? (e.g., Bronselaer & Zanna, 2018; Zanna et al, 2018)
+
+- What drives the uncertainty in projections of ocean heat uptake and thermosteric sea level change? (e.g., Huber and Zanna, 2017)
+
+- Which physical processes govern the timescale of adjustment of the  ocean under climate change? (e.g., Marshall and Zanna, 2014) 
+
+- How does the surface forcing and ocean dynamics influence the air-sea fluxes of carbon? (e.g., Bronselaer et al, 2016; Bronselaer et al, 2017) 
+
+Current Funding:
 
 -- NERC, UK FAFMIP: http://gtr.rcuk.ac.uk/projects?ref=NE%2FR000727%2F1
 

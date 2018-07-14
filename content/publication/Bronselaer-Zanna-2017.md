@@ -1,5 +1,5 @@
 +++
-title = "Tracking heat with carbon"
+title = "Future ocean climate change amplified and mitigated by circulation changes "
 date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -17,7 +17,7 @@ authors = ["B. Bronselaer", "L. Zanna"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Review"
+publication = "Submitted"
 publication_short = ""
 
 # Abstract and optional shortened version.

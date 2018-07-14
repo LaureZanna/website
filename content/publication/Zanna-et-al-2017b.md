@@ -1,6 +1,6 @@
 +++
 title = "Global reconstruction of historical ocean heat storage and transport"
-date = "2018-05-01"
+date = "2018-07-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["L Zanna", "S. Khatiwala", "J. Ison", "J. Gregory", "P. Heimbach"]
@@ -17,7 +17,7 @@ authors = ["L Zanna", "S. Khatiwala", "J. Ison", "J. Gregory", "P. Heimbach"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In revision"
+publication = "Submitted"
 publication_short = ""
 
 # Abstract and optional shortened version.

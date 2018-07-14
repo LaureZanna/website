@@ -272,7 +272,7 @@ defaultContentLanguageInSubdir = false
   weight =8
 
 [[menu.main]]
-  name = "Opportunities"
+  name = "Join Us"
   url = "#opportunities"
   weight = 9
   
