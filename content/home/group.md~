@@ -48,10 +48,6 @@ filter_default = 0
   name = "Matthias Aengenheyster"
   tag = ".matthiasaengenheyster"
 
-[[filter]]
-  name = "Mike Byrne"
-  tag = ".mikebyrne"
-  
   [[filter]]
   name = "Alumns"
   tag = ".alumns"

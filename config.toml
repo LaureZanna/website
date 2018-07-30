@@ -275,7 +275,12 @@ defaultContentLanguageInSubdir = false
   name = "Join Us"
   url = "#opportunities"
   weight = 9
-  
+
+[[menu.main]]
+   name = "News"
+   url = "#news"
+   weight = 10
+   
 # Taxonomies.
 #[taxonomies]
 #  tag = "tags"
