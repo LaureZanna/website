@@ -13,7 +13,7 @@ summary = "Marie Curie Fellow"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["chrisoreilly"]
+tags = ["mikebyrne"]
 
 # Optional external URL for project (replaces project detail page).
 #external_link = "https://sites.google.com/site/christopherhorkesley/"
