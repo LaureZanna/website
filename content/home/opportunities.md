@@ -17,35 +17,32 @@ weight = 35
 
 +++
 
-** I won't be accepting new applications for fellowships, postdocs or students in Oxford for the coming year **
+** July 2018: I won't be accepting new applications for fellowships, postdocs or students in Oxford.  Check back in the fall for new opportunities**
 
-If you are motivated, hard-working and excited to pursue research in
-climate and ocean physics at Oxford, feel free to get in touch with
-me.
+If you have a strong math or physics background, are motivated, hard-working and excited to pursue research in
+climate and ocean physics, feel free to get in touch with me.
 
--- Students:
+#-- Students:
 
-If you have a strong math or physics background, see details on the
-Atmospheric, Oceanic and Planetary Physics website.
+#If you have a strong math or physics background, see details on the Atmospheric, Oceanic and Planetary Physics website.
 
+#-- Postdocs and Research Fellowships: Many internal and external
+#   fellowships are available if you are interested in joining our
+#   group. Please be in touch as soon as possible if you are planning
+#   to apply for the fellowships below.
 
--- Postdocs and Research Fellowships: Many internal and external
-   fellowships are available if you are interested in joining our
-   group. Please be in touch as soon as possible if you are planning
-   to apply for the fellowships below.
+#- NERC Postdoctoral and Advanced Research Fellowships: deadline October
 
-- NERC Postdoctoral and Advanced Research Fellowships: deadline October
+#- Royal Society University Research Fellowships: deadline Sep/Oct
 
-- Royal Society University Research Fellowships: deadline Sep/Oct
+#- Marie Curie Fellowships: deadline Sep/Oct
 
-- Marie Curie Fellowships: deadline Sep/Oct
+#- Royal Commission for the Exhibition of 1851 Research Fellowships: deadline February
 
-- Royal Commission for the Exhibition of 1851 Research Fellowships: deadline February
+#- Newton International Fellowships: deadline April
 
-- Newton International Fellowships: deadline April
+#- Leverhulme Research Fellowships: deadline Oct/Nov
 
-- Leverhulme Research Fellowships: deadline Oct/Nov
+#- Junior/Senior Research Fellowships at Oxford Colleges: deadline variable
 
-- Junior/Senior Research Fellowships at Oxford Colleges: deadline variable
-
-- MPLS Glasstone Research Fellowship: deadline Oct/ Nov
+#- MPLS Glasstone Research Fellowship: deadline Oct/ Nov
