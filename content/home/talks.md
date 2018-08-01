@@ -26,3 +26,5 @@ Upcoming Talks:
 -- Regional Atlantic Circulation and Global Change Workshop, Nov 7-8, Bremen
 
 -- AGU fall meeting, Dec 10-14, Session on "Low-frequency variability in Earth's energy budget" 
+
+-- Equadiff 2019 minisymposium
