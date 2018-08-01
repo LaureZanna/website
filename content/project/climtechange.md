@@ -9,7 +9,7 @@ title = "Climate Change"
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "Bronselaer-SO.pdf
+image_preview = "gistemp_jan-jun16_print.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

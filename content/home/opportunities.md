@@ -17,7 +17,7 @@ weight = 35
 
 +++
 
-** July 2018: I won't be accepting new applications for fellowships, postdocs or students in Oxford.  Check back Oct 2018 for new opportunities**
+** July 2018: I won't be accepting new applications for fellowships, postdocs or students in Oxford.  Check back in Sep/Oct 2018 for new opportunities**
 
 If you have a strong math or physics background, are motivated, hard-working and excited to pursue research in
 climate and ocean physics, feel free to get in touch with me.

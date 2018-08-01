@@ -23,8 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-#image = "headers/pv.jpg"
-image= "headers/EKE.png" 
+image = "headers/pv.jpg"
 # caption = "My caption :smile:"
 
 +++
