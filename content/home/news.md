@@ -7,7 +7,7 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Opportunities"
+title = "News"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -20,7 +20,7 @@ weight = 55
 
 **Aug 2018:**
 
-- Our new paper on "Uncertainty and Scale Interactions in Ocean Ensembles" was accepted in QJRMS
+- Our new [paper](https://laurezanna.github.io/files/pdf/zanna-al-revised-july1-2018.pdf) on "Uncertainty and Scale Interactions in Ocean Ensembles" was accepted in QJRMS
 
 - Congrats to [Tomos David](https://www2.physics.ox.ac.uk/contacts/people/david) who just completed his PhD with us, and for his latest [paper](http://iopscience.iop.org/article/10.1088/1742-5468/aad19a/meta) in J. of Stat Mech on eddy-mixing entropy in forced-dissipative geostrophic turbulence
 
