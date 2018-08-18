@@ -40,9 +40,9 @@ their representation of the meridional overturning circulation (MOC)
 decadal variability and predictions in the Atlantic sector, we have
 introduced new diagnostic and numerical tools.
 
-Current and Past funding on this topic:
+Current funding on this topic:
 
--- NERC, SummerTIME: http://gtr.rcuk.ac.uk/projects?ref=NE%2FM005887%2F1
+-- NERC, [SummerTIME](http://gtr.rcuk.ac.uk/projects?ref=NE%2FM005887%2F1)
 
 -- Royal Society, International Exchanges Scheme,  Quantifying the Variability of Tracer Transport across the Gulf Stream 
 

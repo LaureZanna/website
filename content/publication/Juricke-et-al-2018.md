@@ -17,7 +17,7 @@ authors = ["S. Juricke", "D. MacLeod", "A. Weisheimer", "L. Zanna", "T. N. Palme
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = " Minor Revisions, QJRMS"
+publication = " Accepted, QJRMS"
 publication_short = ""
 
 # Abstract and optional shortened version.

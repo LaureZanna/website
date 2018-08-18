@@ -1,9 +1,9 @@
 +++
-title = "Global reconstruction of historical ocean heat storage and transport"
-date = "2018-07-14"
+title = "Applications of Deep Learning to Ocean Data Inference and Sub-Grid Parameterisation"
+date = "2018-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L Zanna", "S. Khatiwala", "J. Ison", "J. Gregory", "P. Heimbach"]
+authors = ["T. Bolton", "L. Zanna"]
 
 # Publication type.
 # Legend:
@@ -14,10 +14,10 @@ authors = ["L Zanna", "S. Khatiwala", "J. Ison", "J. Gregory", "P. Heimbach"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Revised"
+publication = "Submitted, JAMES"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -33,10 +33,10 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["climtechange/"]
+projects = ["turbulence/"]
 
 # Links (optional).
-# url_pdf = "files/pdf/Zanna-et-al-2017.pdf"
+#url_pdf = "files/pdf/Bachman-et-al-2018.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
@@ -58,9 +58,11 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-# image = "headers/bubbles-wide.jpg"
+#image = "headers/pv.jpg"
 # caption = "My caption :smile:"
 
 +++
+
+
 
 

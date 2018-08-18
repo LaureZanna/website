@@ -38,6 +38,6 @@ predictability limits of the ocean is crucial for providing reliable
 climate predictions. We use theory, observations and numerical
 simulations to assess the uncertainties associated the ocean dynamics.
 
-Current and past funding on this topic:
+Current funding on this topic:
 
--- NERC, Representing uncertainties:  http://gtr.rcuk.ac.uk/projects?ref=NE%2FJ00586X%2F1
+-- NERC, [Representing uncertainties](http://gtr.rcuk.ac.uk/projects?ref=NE%2FJ00586X%2F1)

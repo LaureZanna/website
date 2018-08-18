@@ -266,10 +266,10 @@ defaultContentLanguageInSubdir = false
   url = "#contact"
   weight = 7
 
-[[menu.main]]
-  name = "Talks"
-  url = "#talks"
-  weight =8
+#[[menu.main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight =8
 
 [[menu.main]]
   name = "Join Us"

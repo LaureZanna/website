@@ -47,8 +47,8 @@ effects and for model error associated with the uncertainty in the
 parametrizations. The parametrizations are constructed by using first
 principles, statistical mechanics, and high-resolution model outputs.
 
-Current and Past Funding on this topic:
+Current Funding on this topic:
 
--- NERC, Modelling the ocean with random number: http://gtr.rcuk.ac.uk/projects?ref=NE%2FK013548%2F1
+-- NERC, [Modelling the ocean with random number](http://gtr.rcuk.ac.uk/projects?ref=NE%2FK013548%2F1)
 
--- Royal Society, International Exchanges Scheme,  Quantifying the Variability of Tracer Transport across the Gulf Stream 
+-- Royal Society, International Exchanges Scheme with Ryan Abernathey (Columbia University),  Quantifying the Variability of Tracer Transport across the Gulf Stream

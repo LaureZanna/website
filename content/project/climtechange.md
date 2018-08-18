@@ -34,15 +34,15 @@ One main focus of our work is address fundamental questions such as:
 
 - What is the role of the ocean circulation is shaping patterns of heat, carbon and oxygen storage? (e.g., Bronselaer & Zanna, 2018; Zanna et al, 2018)
 
-- What drives the uncertainty in projections of ocean heat uptake and thermosteric sea level change? (e.g., Huber and Zanna, 2017)
+- What drives the uncertainty in projections of ocean heat uptake and thermosteric sea level change? (e.g., [Huber and Zanna, 2017](https://laurezanna.github.io/publication/huber-zanna-2017/))
 
-- Which physical processes govern the timescale of adjustment of the  ocean under climate change? (e.g., Marshall and Zanna, 2014) 
+- Which physical processes govern the timescale of adjustment of the  ocean under climate change? (e.g., [Marshall and Zanna, 2014](https://laurezanna.github.io/files/pdf/Marshall-Zanna-2014.pdf)) 
 
-- How does the surface forcing and ocean dynamics influence the air-sea fluxes of carbon? (e.g., Bronselaer et al, 2016; Bronselaer et al, 2017) 
+- How does the surface forcing and ocean dynamics influence the air-sea fluxes of carbon? (e.g., [Bronselaer et al, 2016](https://laurezanna.github.io/files/pdf/Bronselaer_et_al-2016.pdf); [Bronselaer et al, 2017](https://laurezanna.github.io/files/pdf/Bronselaer-et-al-2018.pdf)) 
 
 Current Funding:
 
--- NERC, UK FAFMIP: http://gtr.rcuk.ac.uk/projects?ref=NE%2FR000727%2F1
+-- NERC, UK [FAFMIP](http://gtr.rcuk.ac.uk/projects?ref=NE%2FR000727%2F1)
 
--- NERC, TICTOC: http://gtr.rcuk.ac.uk/projects?ref=NE%2FP019218%2F1
+-- NERC, [TICTOC](http://gtr.rcuk.ac.uk/projects?ref=NE%2FP019218%2F1)
 

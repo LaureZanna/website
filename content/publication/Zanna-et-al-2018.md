@@ -17,7 +17,7 @@ authors = ["L Zanna", "J M Brankart", "M Huber", "S Leroux", "T Penduff", "P D W
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Revised, QJRMS"
+publication = "Accepted, QJRMS"
 publication_short = ""
 
 # Abstract and optional shortened version.
