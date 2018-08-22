@@ -16,7 +16,7 @@ weight = 55
 # http://www2.physics.ox.ac.uk/study-here/postgraduates/atmospheric-oceanic-and-planetary-physics/climate-physics
 
 +++
-**Sep 2018:** TICTOC annual meaning in Oxford, Sep 25-26 
+**Sep 2018:** TICTOC annual meeting in Oxford, Sep 25-26 
 
 **Aug 2018:**
 
