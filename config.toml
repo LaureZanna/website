@@ -278,7 +278,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
    name = "News"
-   url = "#post"
+   url = "#news"
    weight = 10
    
 # Taxonomies.
